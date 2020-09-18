@@ -1,6 +1,6 @@
 # plagiatcheck
 
-Aplikasi check plagiat
+Aplikasi check plagiat, Jangan Diusik awkwkkwkw
 
 ## Getting Started
 
